@@ -6,7 +6,7 @@ import Footer from "./Footer";
 import backgroundImage from "../assets/bg5.jpg";
 import lens1 from "../assets/PolyliteyearlycontactlensesSoftTouchLenses-1.jpg";
 import lens2 from "../assets/Essilor.jpg";
-import lens3 from "../assets/Zeissgold.jpg";
+import lens3 from "../assets/zeissgold.jpg";
 import lens4 from "../assets/Bausch + Lomb.jpg";
 import lens5 from "../assets/Vision_RX_Lab.jpg";
 

@@ -2,14 +2,14 @@ import { useState, useEffect, useMemo, useCallback, memo } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useNavigate } from "react-router-dom";
 
-import gallery1 from "../assets/DSC_6525.jpg";
+import gallery1 from "../assets/DSC_6525.JPG";
 import gallery3 from "../assets/service-2.jpg";
 import gallery4 from "../assets/service-1.jpg";
-import gallery5 from "../assets/DSC_6209.jpg";
+import gallery5 from "../assets/DSC_6209.JPG";
 import gallery6 from "../assets/Customer1.png";
 import gallery7 from "../assets/DSC_6198.jpg";
-import gallery8 from "../assets/DSC_6194.jpg";
-import gallery9 from "../assets/DSC_6066.jpg";
+import gallery8 from "../assets/DSC_6194.JPG";
+import gallery9 from "../assets/DSC_6066.JPG";
 
 const galleryImages = [
   { id: 1, src: gallery1, category: "shop", title: "Store Front" },
