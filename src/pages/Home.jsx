@@ -6,7 +6,7 @@ import Services from "./Services";
 import ProductShowcase from "./ProductShowcase";
 import GallerySection from "./GallerySection"
 import Contact from "./Contact";
-import ChatButton from "../components/Chatbutton";
+import ChatButton from "../components/ChatButton";
 import Footer from "./Footer";
 import Products from "./Products";
 

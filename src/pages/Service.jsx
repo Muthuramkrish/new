@@ -5,8 +5,8 @@ import { FaCheckCircle, FaStar, FaBolt, FaStethoscope, FaRibbon, FaRegSmile, FaC
 import backgroundImage from "../assets/bg7.jpg";
 import service1 from "../assets/DSC_6198.jpg";
 import service2 from "../assets/DSC_6224.jpg";
-import service3 from "../assets/DSC_6209.jpg";
-import service4 from "../assets/DSC_6183.jpg";
+import service3 from "../assets/DSC_6209.JPG";
+import service4 from "../assets/DSC_6183.JPG";
 import service5 from "../assets/service-2.jpg";
 import service7 from "../assets/DSC_6056.jpg";
 
